@@ -21,3 +21,5 @@ Then you need to run this command to start the server side.
 ### `npm i`
 You also need to install Node modules from folder server.
 
+You also need to set the environment variables in the file .env in the server folder.
+
